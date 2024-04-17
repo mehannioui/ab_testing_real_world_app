@@ -52,7 +52,7 @@ A website is testing two different webpage designs to see which one results in h
 
 The script provides statistical evidence on whether the new design (experimental group) leads to a higher click rate compared to the control group.
 
-![ABtesting_figure](https://github.com/mehannioui)
+![ABtesting_figure](https://github.com/mehannioui/ab_testing_real_world_app/blob/main/assets/285021741-a8ada9b2-4fe2-4381-875f-199d7a9a9c22.png)
 
 ### Decision Making
 
